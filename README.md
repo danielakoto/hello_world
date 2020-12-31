@@ -1,4 +1,3 @@
-
 Hey! :smile: :wave:
 
 I am currently enrolled at Towson University with a passion for creating programs and apps. 
