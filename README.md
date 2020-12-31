@@ -1,7 +1,7 @@
-# hello_world
-About Me.
 
-Hi, my name is Daniel Akoto.
+Hello :smile: :wave:
+
+
 Currently enrolled at Towson University with a passion for creating programs and apps. 
 I love solving puzzles and problem-solving challenges. 
 Making programs has opened my mind to endless possibilities, 
